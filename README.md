@@ -1,4 +1,4 @@
-# Hi, I'm Nin Codinachs – Data Scientist and Athlete
+# Hi, I'm Nin Codinachs – Data Scientist
 
 🎓 I'm currently coursing a Master's in Data Science which ends June 2026.  
 📍 Based in Europe, seeking a data science role abroad.  
