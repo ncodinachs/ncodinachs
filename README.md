@@ -17,6 +17,7 @@
 ---
 
 ### 🏃 Portfolio Projects (in progress)
+- 📱 **Fitness App Development** To track fitness trainings and to have a control of your diet ingest.
 - 📈 **Predicting Running Performance** from GPS and heart rate data  
 - 📊 **Training Load Dashboard** from cycling/swimming sessions  
 - 🧠 **Sleep & Recovery Data Clustering** from wearable exports (Oura, WHOOP, Garmin)
